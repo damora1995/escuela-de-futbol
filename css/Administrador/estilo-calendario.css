@@ -1,0 +1,33 @@
+body{
+	font-size: 16px;
+	font-weight: 300;
+	color: #fff;
+	line-height: 30px;
+	text-align: center;
+	background-color: #222733;
+}
+#titulo{
+	color: #000;
+}
+#titulo h1{
+	font-size: 2em;
+	color: #fff;
+}
+#caja1{
+	background: #fff;
+	height: 150px;
+}
+#caja1 p{
+	color: #000;
+	text-align: left;
+	font-size: 0.9em;
+	margin: 0px 0px -12px 0px;
+}
+#mes{
+	background: #323a4c;
+	margin: 20px 0px 0 0;
+	font-size: 1.4em;
+}
+#numero{
+	background: red;
+}

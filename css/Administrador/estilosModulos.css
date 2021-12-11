@@ -1,0 +1,239 @@
+body{
+	font-size: 16px;
+	color: #000;
+	line-height: 20px; 
+	background-color: #fff;
+}
+select{
+	width: 100%;
+	height: 37px;
+	border: 1.5px solid #ddd;
+	border-radius: 5px;
+}
+.center{
+	text-align: center;
+}
+.my-form-to{
+        overflow: hidden;
+	padding: 0px 70px 0px  50px;
+	background: red;
+	border-radius: 10px 10px 0 0;	
+	color: #000;
+	margin-top: -20px;
+        width: 100%;
+}
+.cosa{
+	margin-top: -60px;
+}
+i{
+	transition: all 0.6s linear;
+}
+i:hover{
+	transform: scale(2);
+}
+strong{
+	font-weight: 500;
+	width: 100%;
+}
+a, a:hover, a:focus {
+	text-decoration: none; 
+}
+h1, h2 {
+	margin-top: -60px;
+	font-size: 38px;
+	font-weight: 100;
+	line-height: 50px;
+	padding: 30px 40px;
+}
+h3{
+	font-size: 1.6em;
+	font-weight: 50;
+}
+h5{
+	color: green;
+	font-size: 2em;
+}
+thead{
+	background-image: linear-gradient(7deg, #83c486 10%, #c1ffc4 100%);
+}
+tr:nth-child(even){
+	background-color: #a8ffac;
+}
+span i{
+	float: right;
+	font-size: 1.3em;
+	margin-top: 4px;
+}
+p{
+	font-size: 5em;
+	padding: 15px;
+	line-height: 150px;
+	margin-top: 80px;
+	color: green;
+}
+.or{
+	text-align: center;
+}
+
+#ii{
+	margin-top: -15px;
+}
+.my-contenedor{  
+	padding: 70px 0px 0px 20px;
+	width: 100%;
+}
+.my-contenedor, .my-descripcion{
+	margin: 0px 20px 10px 0;
+}
+.my-contenedor, .my-descripcion p{
+	/*opacity: 0.8;*/
+}
+.myform-cont{
+	margin-top: 30px;
+	/*margin: 0px 100px 0px 280px;*/
+}
+#pqrs {
+  color: #fff;
+  background-color: #64c47b;
+  border-color: #64c47b;
+}
+#pqrs:hover {
+  color: #fff;
+  background-color: #46baa4;
+  border-color: #10a388;
+}
+
+.my-form-top{
+	overflow: hidden;
+	padding: 0px 70px 0px  50px;
+	background: #d7efdb;
+	border-radius: 10px 10px 0 0;	
+	color: #000;
+	margin-top: -20px;
+}
+.my-form-top i{ /*cambiar el color de los iconos */
+	color: #000;
+}
+.myform-top-left{
+	float: left;
+	width: 75%;
+	padding-top: 25px;
+	text-align: left;
+}
+.myform-top-left p{
+	opacity: 0.8;
+}
+.Myform-top-right{
+	float: right;
+	width: 25%;
+	padding-top: 25px;
+	font-size: 66px;text-align: center;
+	text-align: right;
+	opacity: 0.5;
+	color: green;
+}
+.my-form-botton {
+	padding-top: 25px 25px 30px 25px;
+	background: rgba(0,0,0,0.3);
+	border-radius: 0 0 30px 30px;
+	width: 100%;
+	background: #dae5db;
+	padding: 5px;
+}
+.salir{
+	width: 70px;
+	height: 35px;
+	margin: 10px 20px;
+}
+.ancho{
+	width: 100%;
+}
+.my-form-botton .mybtn10 {
+	width: 30%;
+}
+.my-form-botton .mybtn {
+	width: 30%;
+}
+input[type="text"],
+input[type="password"],
+textarea,
+textarea.form-control{
+	border-radius: 10px;
+	vertical-align: middle;
+	background-attachment: #000;
+	border:2px solid #000;
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 120%;
+
+}
+input[type="text"]:focus,
+input[type="password"]:focus,
+textarea:focus,
+textarea.form-control:focus{
+	background: #e8fcec;
+	border:3px solid #1AAE88;
+}
+ .mybtn{
+	width: 100%;
+	height: 50px;
+	background: #115b18;
+	border:0;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 40px;
+	color: #fff;
+	border-radius: 10px;
+} 
+ .mybtn10{
+	width: 100%;
+	height: 50px;
+	background: #f4021a;
+	border:0;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 40px;
+	color: #fff;
+	border-radius: 10px;
+} 
+td{
+	width: 100px;
+}
+button.mybtn:hover, button.mybtn:active{
+	opacity: 0.9;
+	color: #56bc60;
+}
+button.mybtn:focus{
+	opacity: 0.6;
+	color: #fff;
+	background: #de615e;
+}
+button.mybtn10:hover, button.mybtn10:active{
+	opacity: 0.9;
+	color: #ff7c8a;
+}
+button.mybtn10:focus{
+	opacity: 0.6;
+	color: #fff;
+	background: #e50016;
+}
+.mybtn1{
+	background: #1AAE88;
+	border:0;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 40px;
+	color: #fff;
+	border-radius: 5%;
+	margin:5px 16px;
+}
+button.mybtn1:hover, button.mybtn1:active{
+	opacity: 0.6;
+	color: #fff;
+}
+button.mybtn1:focus{
+	opacity: 0.6;
+	color: #fff;
+	background: #de615e;
+}
+

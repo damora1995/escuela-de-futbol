@@ -1,0 +1,86 @@
+body{
+	font-size: 1.2em;
+	color: #000; 
+	text-align: right;
+	background-color: #fff; 
+}
+#titulo{
+	background: #d7efdb;
+	color: #000;
+	font-size: 1.7em;
+	height: 60px;
+	padding: 10px;
+	margin-top: 15px;
+	text-align: center;
+}
+#titulo1{
+	color: #000;
+	background: #d7efdb;
+	font-size: 1.4em;
+	height: auto;
+	padding: 18px; 
+	text-align: center;
+}
+#titulo2{
+	color: #000;
+	background: #d7efdb;
+	font-size: 1.2em;
+	height: auto;
+	padding: 8px; 
+	text-align: center;
+}
+#sub{
+	height: 90px;
+	background: #d7efdb;
+}
+#foto{
+	
+	height: auto;
+}
+#datos1{
+	
+	height: auto;
+}
+#datos2{
+	
+	height: auto;
+}
+#rendimiento1{
+	height: auto;
+}
+#rendimiento2{
+	
+	height: auto;
+}
+#seguimiento{
+	height: auto;
+}
+#asistencia{
+	
+	height: auto;
+}
+#posicion{
+	
+	height:  auto;
+}
+#reporte{
+	
+	height:  auto;
+}
+#fotopos img{
+	width: 100%;
+	height: 100%;
+}
+thead{
+	font-size: 1em;
+
+}
+table {
+	color: #000;
+	font-size: .0.8em;
+	height: 1px;
+}
+a{
+	text-decoration: none;
+	color: #000;
+}

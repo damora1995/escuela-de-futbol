@@ -1,0 +1,54 @@
+body{
+	font-size: 0.8em;
+	font-weight: 300;
+	color: #fff;
+	line-height: 30px;
+	text-align: center;
+	background-color: #fff;
+}
+#titulo{
+	color: #000;
+}
+#titulo h1{
+	font-size: 2em;
+	color: #000;
+}
+#caja1{
+	background: #fff;
+	height: 160px;
+}
+#caja1 h2{
+	color: #000;
+	text-align: left;
+	font-size: 0.89em;
+	margin: 0px 0px -12px 0px;
+	border-width: 1px solid #d7efdb;
+	line-height: 32px;
+}
+#mes{
+	background: #d7efdb;
+	margin: 20px 0px 0 0;
+	font-size: 1.4em;
+	color: #000;
+}
+#numero{
+	background: red;
+}
+#caja10{
+	color: #000;
+}
+span i{
+	float: right;
+	margin: 10px;
+}
+h4{
+	color: #000;
+}
+#icono{
+	color: green;
+	font-size: 5em;
+	opacity: 0.5;
+}
+#span{
+	font-size: 1.3em;
+}

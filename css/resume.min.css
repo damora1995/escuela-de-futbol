@@ -1,0 +1,119 @@
+
+ */body{font-family:Muli,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol',
+ 'Noto Color Emoji';padding-top:54px;color:#868e96}@media (min-width:992px){body{padding-top:0;padding-left:17rem}}h1,h2,h3,h4,h5,h6{font-family:'Saira Extra Condensed',
+ -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+
+ font-weight:700;text-transform:uppercase;color:fff}   /*color de los titulos */
+ h1{font-size:6rem; /*tamaño de la letra de los titulos */
+ line-height:5.5rem}h2{font-size:3rem;text-align: center}h3{font-size:2rem}h5.lead{font-size:3em;font-weight:4000}
+ .subheading{text-transform:uppercase;font-weight:500;font-family:'Saira Extra Condensed',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,
+ sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';font-size:1.5rem}.social-icons a{display:inline-block;height:3.5rem;width:3.5rem;
+ background: #fff;color:#26a535!important;  border-radius:100%;text-align:center;font-size:1.5rem;line-height:3.5rem;margin-right:1rem}.social-icons a:last-child{
+ margin-right:0}.social-icons a:hover{background: rgba(239,184,16)}.dev-icons{font-size:3rem}.dev-icons .list-inline-item i:hover{color:red}  /*modificador de los iconos */
+
+ #sideNav .navbar-nav .nav-item .nav-link #sideNav .navbar-toggler:focus{outline-color:#d48a6e}
+ @media (min-width:992px){#sideNav{text-align:center;position:fixed;top:0;left:10;display:-webkit-box;display:-ms-flexbox;display:flex;
+ -webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;width:15.9rem;height:100vh}#sideNav .navbar-brand{
+ display:-webkit-box;display:-ms-flexbox;display:flex;margin:auto auto 0;padding:.5rem}#sideNav .navbar-brand .img-profile{max-width:10rem;max-height:8rem;
+ padding: 4px; border:.5rem solid rgba(255,255,255,.3) }#sideNav .navbar-collapse{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:start;
+ -ms-flex-align:start;align-items:flex-start;-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;width:100%;margin-bottom:auto}#sideNav .navbar-collapse
+ .navbar-nav{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;width:100%}
+ #sideNav .navbar-collapse .navbar-nav .nav-item{display:block}a{float: center;} #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link{display:block}}
+ section.resume-section{padding-top:5rem!important;padding-bottom:5rem!important;max-width:75rem}
+ section.resume-section .resume-item .resume-date{min-width:none}@media (min-width:768px){section.resume-section{min-height:100vh}
+ section.resume-section .resume-item .resume-date{min-width:18rem}}@media (min-width:992px)
+ {section.resume-section{padding-top:3rem!important;padding-bottom:3rem!important}}.bg-primary{ background: rgba(239,184,16)!important}.text-primary{color:#000!important}
+ a{color:#fff}a:active,a:focus,a:hover{color:#000}
+
+ body{
+ 	background-image: url(../img/pasto9.jpg ) ;
+ 	width: 100%;
+    
+ }
+ p{
+ 	text-align: justify;
+ 	background-image: url(../img/paso5.jpg);
+ 	font-size: 0.9em;
+ 	line-height: 1.35;
+ 	padding-top: 10px;
+ }
+ aside p{
+ 	margin-top: 18px;
+ }
+section h1.mb-0
+{ 
+  text-align: center;
+}
+section p{
+
+
+}
+.img1{
+	border-radius: 15px;
+	
+}
+img{
+	transition: all 0.4s linear;
+    
+}
+img:hover{
+	transform: scale(1.17);
+	border-radius: 30px;
+	border: 2px solid #fff;
+}
+i{
+	transition: all 0.6s linear;
+}
+i:hover{
+	transform: scale(2);
+}
+.lead
+{
+	color: #fff;
+	text-align: center;
+	padding-top: 50px;
+}
+
+section img
+{
+	width: 100%;
+	height: 100%;
+	border-radius: 100%;
+}
+a:hover{
+	color: #fff;
+	text-decoration: none;
+}
+.img img{
+	height: 200px;
+}
+.nav-item .nav-link{
+	margin-top: -2px;
+}
+@media only screen (min-width: 800px) and (max-width: 1020px){
+	img .img .row .timeline .img-fluid .timeline-image .timeline-panel .timeline-headin .subheading .m-0{
+		width: 100%;
+		height: 100px;
+		background: red;
+	}
+}
+@media only screen (min-width: 400px) and (max-width: 799px){
+	img .img .row .timeline .img-fluid .timeline-image .timeline-panel .timeline-headin .subheading .m-0{
+		width: 100%;
+		height: 200px;
+		background: blue;
+	}
+}
+@media only screen (min-width: 0px) and (max-width: 399px){
+	img .img .row .timeline .img-fluid .timeline-image .timeline-panel .timeline-headin .subheading .m-0{
+		width: 40%;
+		height: 100px;
+		background: orange;
+}
+section p{
+    color: blue;
+    font-size: 3em;
+}
+#myCarousel p{
+	text-align: center;
+}

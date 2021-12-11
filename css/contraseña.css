@@ -1,0 +1,170 @@
+body{
+	font-size: 16px; 
+	font-weight: 300;
+	color: #fff;
+	line-height: 30px;
+	text-align: center;
+	background-color: #222733;
+}
+#error2{
+	font-size: 1.4em;
+}
+.errores{
+  -webkit-box-shadow:0 0 10px rgba(0,0,0,0.3);
+  -moz-box-shadow:0 0 10px rgba(0,0,0,0.3);
+  -o-box-shadow:0 0 10px rgba(0,0,0,0.3);
+  background: #750d03;
+  box-shadow:0 0 10px rgba(0,0,0,0.3);
+  color: #fff;
+  display: none;
+  font-size: 14px;
+  margin-top: -8px;
+  margin-left: 340px;
+  padding: 10px;
+  position: absolute;
+}
+    #mensaje1{
+	  margin: -40px 0 0px 400px;
+	  width: 300px;
+      display: none;
+    }
+    #mensaje2{
+    	margin: -40px 0 0px 400px;
+    	width: 200px;
+      display: none;
+    }
+strong{
+	font-weight: 500;
+}
+a, a:hover, a:focus {
+	text-decoration: none; 
+}
+h1, h2 {
+	margin-top: 10px;
+	font-size: 38px;
+	font-weight: 100;
+	line-height: 50px;
+}
+h3{
+	font-size: 22px;
+	font-weight: 300;
+
+}
+.my-contenedor{
+	padding: 70px 0px 0px 0px;
+	background-color: #222733;
+}
+.my-contenedor, .my-descripcion{
+	margin: 20px 0 10px 0;
+}
+.my-contenedor, .my-descripcion p{
+	opacity: 0.8;
+}
+.myform-cont{
+	margin-top: 30px;
+	/*margin: 0px 100px 0px 280px;*/
+}
+
+.my-form-top{
+	overflow: hidden;
+	padding: 0px 25px 15px 25px;
+	background:rgba(0,0,0,0.35);
+	border-radius: 10px 10px 0 0;	
+}
+.myform-top-left{
+	float: left;
+	width: 75%;
+	padding-top: 25px;
+	text-align: left;
+}
+.myform-top-left p{
+	opacity: 0.8;
+}
+.Myform-top-right{
+	float: right;
+	width: 25%;
+	padding-top: 25px;
+	font-size: 66px;text-align: center;
+	text-align: right;
+	opacity: 0.3;
+}
+.my-form-botton {
+	padding-top: 25px 25px 30px 25px;
+	background: rgba(0,0,0,0.3);
+	border-radius: 0 0 10px 10px;
+	width: 100%;
+}
+.ancho{/*
+	height: auto;*/
+	width: 95%;
+	padding: 0 0 20px 30px ;
+}
+.my-form-botton .mybtn {
+	width: 35%;
+	float: left;
+}
+.my-form-botton .mybtn1 {
+	width: 62%;
+	
+}
+input[type="text"],
+input[type="password"],
+textarea,
+textarea.form-control{
+	vertical-align: middle;
+	background-attachment: #fff;
+	border:5px solid#fff;
+	font-size: 16px;
+	font-weight: 300;
+	line-height: 50%;
+}
+input[type="text"]:focus,
+input[type="password"]:focus,
+textarea:focus,
+textarea.form-control:focus{
+	background: #fff;
+	border:3px solid #1AAE88;
+}
+ .mybtn{
+	width: 35%;
+	height: 50px;
+	background: #ed4440;
+	border:0;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 40px;
+	color: #fff;
+	border-radius: 4px;
+} 
+button.mybtn:hover, button.mybtn:active{
+	opacity: 0.9;
+	color: #fff;
+}
+i:hover{
+	opacity: 0.6;
+	color: #ddd;
+}
+button.mybtn:focus{
+	opacity: 0.6;
+	color: #fff;
+}
+.mybtn1{
+	height: 50px;
+	background: #18a581;
+	border:0;
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 40px;
+	color: #fff;
+	border-radius: 5%;
+	/*margin:5px 16px;*/
+}
+button.mybtn1:hover, button.mybtn1:active{
+	opacity: 0.6;
+	color: #fff;
+}
+button.mybtn1:focus{
+	opacity: 0.9;
+	color: #fff;
+	background: #02fcbb;
+}
